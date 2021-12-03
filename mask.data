@@ -1,0 +1,5 @@
+classes= 3
+train = /home/kevin/Desktop/maskDetection_jetson/train.txt
+valid = /home/kevin/Desktop/maskDetection_jetson/test.txt
+backup= /home/kevin/Desktop/maskDetection_jetson/backup
+names = /home/kevin/Desktop/maskDetection_jetson/mask.names
